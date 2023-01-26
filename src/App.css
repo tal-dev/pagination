@@ -1,6 +1,9 @@
 .App {
   text-align: center;
-  display: flex;
+}
+
+.container {
+    display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
